@@ -101,10 +101,10 @@ THE 3RD TEAM PROJECT - Seongnam Art Center .version 1.8
 **소개, 오시는길 페이지**
 
 * 구글 맵스 api를 활용하여 실제 지도를 불러내어 줍니다.
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ## 사용 라이브러리(언어)
 |JavaScript|HTML5|CSS3|
 |---|---|---|
