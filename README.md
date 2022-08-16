@@ -32,7 +32,7 @@ THE 3RD TEAM PROJECT - Seongnam Art Center .version 1.8
 ```
 
 -----------------
-# 현재 발견된 문제
+## 현재 발견된 문제
 1. 인덱스(메인) 페이지의 토글 메뉴를 누르고
 1차 메뉴를 호버시 2차 메뉴들이 사라지는 현상
 
@@ -43,7 +43,7 @@ THE 3RD TEAM PROJECT - Seongnam Art Center .version 1.8
 
 
 -----------------
-# 기능 구현
+## 기능 구현
 
 -----------------
 **메인프레임**
