@@ -7,7 +7,7 @@
 
 사이트 링크 : https://asben1.github.io/2022.08_Seongnam_Arts_Center/
 
-Latest Updated Date: 2022.08.16
+Latest Updated Date: 2022.08.16<br>
 THE 3RD TEAM PROJECT - Seongnam Art Center .version 1.8
 
 -----------------
