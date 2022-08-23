@@ -7,9 +7,6 @@
 
 사이트 링크 : https://asben1.github.io/2022.08_Seongnam_Arts_Center/
 
-<i>Latest Updated Date: 2022.08.16
-Project TEAM Seongnam Art Center .version 1.81</i>
-
 -----------------
 ## 팀 공지사항
 - **** pc버전 토글메뉴 리뉴얼했습니다. main-layout.html확인하시고 괜찮으시면 이걸로 수정하겠습니다.
