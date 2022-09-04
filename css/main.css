@@ -210,8 +210,6 @@
 }
 
 #exhibition .ex-gallery .imgbox {
-    outline: 2px solid coral;
-
     position: absolute;
     width: 50vw;
     height: 50vh;
